@@ -1,2 +1,2 @@
 # so_long-42School
-![Banner](so_long_mage.png)
+![Banner](so_long_image.png)
